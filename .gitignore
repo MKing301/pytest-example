@@ -1,0 +1,6 @@
+.pytest_3_venv/
+.pytest_cache/
+__pycache__/
+notes.txt
+.coverage
+htmlcov/
